@@ -1,2 +1,2 @@
-# hetzner-cloud-failover
-Simple yet usable tool for creating automatic failover scenarios for Hetzner's Cloud VMs
+# Hetzner Cloud Failover
+Simple yet usable script for creating automatic failover scenarios for Hetzner's Cloud projects.
