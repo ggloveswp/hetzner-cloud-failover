@@ -14,4 +14,4 @@ Hetzner's Cloud API Documentation: https://docs.hetzner.cloud/
 # Important
 Feel free to create your branches and extend its functionalities in case you want to contribute. 
 
-Please consider the following and behave/expect things accordingly: This is my first project here and my first hands-on experience with version control software.
+Please consider the following and behave/expect things accordingly: This is my first repo and my first hands-on experience with version control software.
